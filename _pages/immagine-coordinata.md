@@ -1,0 +1,18 @@
+---
+ID: 421
+post_title: Immagine coordinata
+author: admin
+post_excerpt: ""
+layout: page
+permalink: >
+  https://www.h2hdigital.it/immagine-coordinata/
+published: true
+post_date: 2019-03-14 14:03:01
+---
+[vc_row css_animation="" row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" disable_background_image="" css=".vc_custom_1552658440018{background-color: #313e95 !important;}"][vc_column offset="vc_hidden-xs"][rev_slider alias="immagine"][/vc_column][/vc_row][vc_row css_animation="" row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" disable_background_image=""][vc_column][vc_empty_space height="40px"][/vc_column][/vc_row][vc_row css_animation="" row_type="row" use_row_as_full_screen_section="no" type="grid" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" row_content_width="grid" disable_background_image="" z_index=""][vc_column][vc_column_text]
+<h1>Immagine coordinata</h1>
+[/vc_column_text][/vc_column][/vc_row][vc_row css_animation="" row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" disable_background_image=""][vc_column][vc_empty_space height="30px"][/vc_column][/vc_row][vc_row css_animation="" row_type="row" use_row_as_full_screen_section="no" type="grid" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" row_content_width="grid" disable_background_image="" z_index=""][vc_column width="1/2"][vc_column_text]Crediamo fermamente che la comunicazione on-line sia irrinunciabile per qualsiasi azienda.
+Non rappresenta, tuttavia, l’unica strada percorribile.
+In qualsiasi progetto di comunicazione, infatti, non andrebbe sottovalutata l’importanza dei <strong>canali più tradizionali</strong> per l’acquisizione di nuovi clienti e la diffusione della conoscenza dei prodotti o servizi offerti.
+Attraverso l’ideazione del <strong>logo</strong> e del <strong>marchio</strong>, la realizzazione di <strong>brochure, cataloghi e pieghevoli</strong>, la creazione di totem e cartellonistica e l’allestimento di eventi e punti vendita, diamo vita all’identità aziendale sotto forma di <strong>immagine coordinata</strong>, che costituisce il filo conduttore di tutte le esternazioni nel mercato di riferimento. L’azienda sarà così delineata in maniera originale ed inequivocabile.
+Per la realizzazione di ogni progetto grafico, il nostro team studia un <strong>piano personalizzato</strong>, analizzando le esigenze del cliente e la ricettività del mercato che gli compete, cercando la soluzione più vantaggiosa sia in termini di ritorno monetario che in termini di immagine.[/vc_column_text][/vc_column][vc_column width="1/2"][contact-form-7 id="9" html_class="default"][/vc_column][/vc_row][vc_row css_animation="" row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" row_content_width="grid" disable_background_image=""][vc_column][vc_column_text][/vc_column_text][/vc_column][/vc_row][vc_row css_animation="" row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" disable_background_image=""][vc_column][vc_empty_space height="80px"][/vc_column][/vc_row]
